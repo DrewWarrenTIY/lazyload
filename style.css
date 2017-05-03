@@ -21,4 +21,11 @@
 .slide-up {
   top: 500px;
   position: relative;
+  transition: .5s;
+}
+
+.no-slide {
+  top: 0px;
+  position: relative;
+  transition: .5s;
 }
