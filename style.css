@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  height: 2800px;
+  width: 80vw;
+  margin: 0 auto;
+  background-color: darkslategrey;
+  padding-top: 50px;
+}
+
+.main>div {
+  height: 300px;
+  width: 80%;
+  background-color: lightgrey;
+  margin: 20px auto 40px auto;
+}
+
+.slide-up {
+  top: 500px;
+  position: relative;
+}
