@@ -18,6 +18,11 @@
   margin: 20px auto 40px auto;
 }
 
+.sub-div-eight {
+  background-color: purple;
+  height: 100%;
+}
+
 .slide-up {
   top: 500px;
   position: relative;
@@ -28,4 +33,11 @@
   top: 0px;
   position: relative;
   transition: 1s;
+}
+
+.footer {
+  height: 500px;
+  background-color: lightcoral;
+  position: relative;
+  z-index: 1;
 }
